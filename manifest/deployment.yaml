@@ -15,5 +15,5 @@ spec:
         app: go-server-ci
     spec:
       containers:
-      - image: m20070/go-server-ci
+      - image: https://github.com/orgs/2023-4400-exp/packages/container/4421-go-server-ci/164944694?tag=80b3963e2c6fa6bebb295fc24bc67c354b64ed13
         name: go-server-ci
